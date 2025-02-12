@@ -19,7 +19,7 @@ This project is a backend system for monitoring patients' heart rate data using 
 
 ## Installation & Setup
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```sh
 git clone https://github.com/Haripriya1420/Hari_Priya_Assignment.git
 cd Hari_Priya_Assignment
